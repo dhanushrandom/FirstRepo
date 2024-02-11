@@ -1,1 +1,1 @@
-console.log('Testing');
+alert('Hello world !')
